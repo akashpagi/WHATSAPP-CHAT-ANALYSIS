@@ -1,0 +1,12 @@
+streamlit
+matplotlib
+seaborn
+pandas
+urlextract
+wordcloud
+Image
+nltk
+plotly.express
+SentimentIntensityAnalyzer
+re
+Counter
