@@ -7,6 +7,6 @@ wordcloud
 Image
 nltk
 plotly.express
-SentimentIntensityAnalyzer
-re
-Counter
+nltk.sentiment.vader
+collections
+PIL
